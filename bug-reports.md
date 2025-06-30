@@ -38,7 +38,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| ![Home](https://github.com/vnadoti/manual-test-swaglabs/evidencias/home-page.gif) |
+| ![Home](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/home-page.gif) |
 
 ___ 
 
@@ -77,7 +77,7 @@ ___
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| ![Quantidade](https://github.com/vnadoti/manual-test-swaglabs/evidencias/qtdade.gif)|
+| ![Quantidade](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/qtdade.gif)|
 
 
 
