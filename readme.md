@@ -33,14 +33,21 @@ O ambiente de teste para testes é o seguinte:
 As Casos de testes estão disponíveis no arquivo
 - `casos-teste.md`
 
-## 5. Avaliação e priorização de riscos
+
+## 4. 🐞 Bug Report
+
+Os bugs reportados estão disponíveis no arquivo
+- `bug-reports.md`
+
+
+## 6. Avaliação e priorização de riscos
 
 ### Estratégia de Priorização de Testes
 1. **Testes de Caminho Crítico** - Foco nos fluxos de usuários que impactam a funcionalidade principal
 2. **Testes de Alto Risco** - Priorização de testes em áreas de alto risco
 3. **Testes de Casos Extremos** - Abordagem de cenários incomuns, se o tempo permitir
 
-## 6. Procedimento de Relatório de Defeitos
+## 7. Procedimento de Relatório de Defeitos
 
 ### Modelo de Relatório de Defeito
 Cada relatório de defeito deve incluir:
@@ -66,7 +73,7 @@ Cada relatório de defeito deve incluir:
 - **Média**: Deve ser corrigida na próxima versão
 - **Baixa**: Pode ser corrigida quando o tempo permitir
 
-## 7. Sobre
+## 8. Sobre
 📅 **Data de Execução:** Julho de 2025  
 🧪 **Tipo de Teste:** Manual  
 👤**Testador**: Victor Nadoti
