@@ -74,6 +74,6 @@ Cada relatório de defeito deve incluir:
 ## 8. Sobre
 📅 **Data de Execução:** Julho de 2025  
 🧪 **Tipo de Teste:** Manual  
-👤**Testador**: Victor Nadoti
+👤 **Testador**: Victor Nadoti
 🧠 **Base:** Casos de teste previamente documentados
 🌐 **Sistema Testado:** SwagLabs
