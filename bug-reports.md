@@ -38,11 +38,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| ![Home](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/home-page.gif) |
+| ![Home](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/home-page.png) |
 
 ___ 
 
-### 🐞 **Bug 02: Manipular Quantidade no Carrinho de Compras **
+### 🐞 **Bug 02: Manipular Quantidade no Carrinho de Compras**
 
 | **ID**     | **Descrição**                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
