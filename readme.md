@@ -1,5 +1,5 @@
 # Plano de Teste para SwagLabs
-![logo](https://github.com/vnadoti/manual-test-swaglabs/evidencias/swag-labs.png)
+![logo](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/swag-labs.png)
 
 ## Introdução
 

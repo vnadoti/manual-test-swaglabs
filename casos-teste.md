@@ -23,7 +23,7 @@
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Login com sucesso](https://github.com/vnadoti/manual-test-swaglabs/evidencias/login.gif)|
+|![Login com sucesso](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/login.gif)|
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Login sem sucesso](https://github.com/vnadoti/manual-test-swaglabs/evidencias/login-invalid.gif)|
+|![Login sem sucesso](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/login-invalid.gif)|
 
 ___ 
 
@@ -78,7 +78,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Logout](https://github.com/vnadoti/manual-test-swaglabs/evidencias/logout.gif)|
+|![Logout](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/logout.gif)|
 
 ___ 
 
@@ -106,7 +106,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![az](https://github.com/vnadoti/manual-test-swaglabs/evidencias/ordering.gif)|
+|![az](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/ordering.gif)|
 
 ___ 
 ### 🛒Ordenar Podutos produtos por preço
@@ -133,7 +133,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![prices](https://github.com/vnadoti/manual-test-swaglabs/evidencias/ordering.gif)|
+|![prices](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/ordering.gif)|
 
 
 
@@ -160,7 +160,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Add to Cart](https://github.com/vnadoti/manual-test-swaglabs/evidencias/carrinho.gif)|
+|![Add to Cart](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/carrinho.gif)|
 
 ___ 
 
@@ -187,7 +187,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Remove to Cart](https://github.com/vnadoti/manual-test-swaglabs/evidencias/carrinho.gif)|
+|![Remove to Cart](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/carrinho.gif)|
 
 ___ 
 
@@ -213,7 +213,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Continue Shopping](https://github.com/vnadoti/manual-test-swaglabs/evidencias/continue-shopping.gif)|
+|![Continue Shopping](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/continue-shopping.gif)|
 
 ___ 
 
@@ -239,7 +239,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Chekout](https://github.com/vnadoti/manual-test-swaglabs/evidencias/checkout.gif)|
+|![Chekout](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/checkout.gif)|
 
 ___ 
 
@@ -266,7 +266,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Chekout fields](https://github.com/vnadoti/manual-test-swaglabs/evidencias/checkout-fields.gif)|
+|![Chekout fields](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/checkout-fields.gif)|
 
 ___ 
 
@@ -295,7 +295,7 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Overview](https://github.com/vnadoti/manual-test-swaglabs/evidencias/overview.png)|
+|![Overview](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/overview.png)|
 
 ___ 
 
@@ -322,4 +322,4 @@ ___
 
 | **Evidência:** | 
 | :---------------------------------------------------------------------------------------------------- |
-|![Thank You](https://github.com/vnadoti/manual-test-swaglabs/evidencias/thank-you.png)|
+|![Thank You](https://github.com/vnadoti/manual-test-swaglabs/blob/main/evidencias/thank-you.png)|
