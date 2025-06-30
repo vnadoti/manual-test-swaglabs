@@ -33,12 +33,10 @@ O ambiente de teste para testes é o seguinte:
 As Casos de testes estão disponíveis no arquivo
 - `casos-teste.md`
 
-
-## 4. 🐞 Bug Report
+## 5. 🐞 Bug Report
 
 Os bugs reportados estão disponíveis no arquivo
 - `bug-reports.md`
-
 
 ## 6. Avaliação e priorização de riscos
 
